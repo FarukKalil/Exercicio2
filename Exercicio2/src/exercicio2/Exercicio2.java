@@ -14,6 +14,6 @@ public class Exercicio2 {
             
             soma = n1 + n2;
             
-            System.out.println("A soma de "+n1+" + "+n2+" é"+soma);
+            System.out.println("A soma de "+n1+" + "+n2+" é "+soma);
     }
 }
